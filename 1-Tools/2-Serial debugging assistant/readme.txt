@@ -1,0 +1,1 @@
+不能打开请安装dotNetFx40_Full_x86_x64.exe
